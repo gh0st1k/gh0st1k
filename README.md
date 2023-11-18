@@ -1,17 +1,17 @@
-Hello, everyone! My name is `gh0st1k`. I am a beginner programmer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans+&pause=1000&color=00A5F7&center=true&vCenter=true&random=false&width=435&lines=Hello!+Im+gh0st1k;Im+starter+developer+on+c%2B%2B)](https://git.io/typing-svg)
+---
+# My utlits📚
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+# My stack🖥️
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# Check my projects :)
 ----
-*My projects:*
-1. gh0st - my multi discord bot with its own economy and clan system! This project is still in development.
-
-*About me:*
-I have been programming for 1 year. I am 12 years old, I am learning c++. The goal is to create your own game on unreal enige.
-Im from Ukraine..
-
-*I know this programming language:*
-1. SQL
-2. Python
-3. c++ (20%)
-4. Git
-5. C#(0%)
 
 **Thank you for your attention, good luck!**
